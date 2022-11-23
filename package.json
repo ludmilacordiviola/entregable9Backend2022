@@ -1,0 +1,22 @@
+{
+  "name": "entregable9backend2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "knex": "^2.3.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.5.4",
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {},
+  "author": "lcordivi",
+  "license": "ISC"
+}
